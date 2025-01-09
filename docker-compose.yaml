@@ -9,5 +9,5 @@ services:
       - JIOTV_PATH_PREFIX=/app/.jiotv_go
       - JIOTV_EPG=true
       - TZ=Asia/Kolkata
-      - JIOTV_DRM=true
+      - JIOTV_DRM=false
 
